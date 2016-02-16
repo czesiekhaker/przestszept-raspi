@@ -1,0 +1,11 @@
+RasPi init script http://www.stuffaboutcode.com/2012/06/raspberry-pi-run-program-at-start-up.html
+
+evdev InputDevice https://superuser.com/questions/562434/how-can-i-read-input-from-the-hosts-keyboard-when-connected-via-ssh
+pySerial? https://pyserial.readthedocs.org/en/latest/shortintro.html
+
+Popen https://stackoverflow.com/questions/3516007/run-process-and-dont-wait/3516106#3516106
+music libs? https://stackoverflow.com/questions/20021457/playing-mp3-song-on-python
+
+ssh
+	creds: pi:raspberry
+	10.0.0.10/24
